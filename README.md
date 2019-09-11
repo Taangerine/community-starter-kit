@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- i 
+- play
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- free
+- fire
 
 ## Getting started
 
